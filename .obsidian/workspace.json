@@ -4,18 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "f33207cf0946c1e9",
+        "id": "52e8178498e1a3bc",
         "type": "tabs",
         "children": [
           {
-            "id": "cb60b2308f139154",
+            "id": "c9cb1b6b3a9fa0f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "202601051700.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
+              "title": "202601051700"
+            },
+            "group": "43e2ee52a74a8a98"
+          }
+        ]
+      },
+      {
+        "id": "d35ee98a19f33175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48648459906dd99e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202601051700.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202601051700"
+            },
+            "group": "43e2ee52a74a8a98"
           }
         ]
       }
@@ -74,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3811f30227847ce7",
@@ -196,19 +223,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "templater-obsidian:Templater": false,
       "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cb60b2308f139154",
+  "active": "c9cb1b6b3a9fa0f7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-01-05 17.20.42.excalidraw.md",
     "README.md",
     "202601050931.md",
     "202601051700.md",
     "Untitled",
     "Pasted image 20260105174405.png",
-    "Excalidraw/Drawing 2026-01-05 17.20.42.excalidraw.md",
     "Pasted image 20260105174337.png",
     "Pasted image 20260105174329.png",
     "utils/templates/card-template.md",
