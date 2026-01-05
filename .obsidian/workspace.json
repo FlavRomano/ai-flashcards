@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "c447a333df1ae109",
+    "type": "split",
+    "children": [
+      {
+        "id": "f33207cf0946c1e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb60b2308f139154",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e01e6603473d2289",
+    "type": "split",
+    "children": [
+      {
+        "id": "bab39eab92c21411",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2b55d3599809e0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dd6d0930c09d6590",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b8ac15d94f2afec2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3811f30227847ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c852a8d36f363881",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01fcf202463cf50e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "26e10b5b84eba05f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cbac69d33f23b255",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bcd8c9dddc3912e4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6dc2afeccda92799",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6b3533611bf94af5",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "78aecc3c003974a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "cb60b2308f139154",
+  "lastOpenFiles": [
+    "README.md",
+    "202601050931.md",
+    "202601051700.md",
+    "Untitled",
+    "Pasted image 20260105174405.png",
+    "Excalidraw/Drawing 2026-01-05 17.20.42.excalidraw.md",
+    "Pasted image 20260105174337.png",
+    "Pasted image 20260105174329.png",
+    "utils/templates/card-template.md",
+    "Pasted image 20260105173137.png",
+    "MyExcalidrawFile.md",
+    "Excalidraw",
+    "Untitled.md",
+    "Welcome.md",
+    "utils/templates",
+    "utils"
+  ]
+}
