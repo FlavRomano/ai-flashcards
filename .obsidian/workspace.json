@@ -4,58 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a661485185dff505",
+        "id": "34be26e5ae507595",
         "type": "tabs",
         "children": [
           {
-            "id": "9c11c060248c6882",
+            "id": "488d14a15f156602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "202601051700.md",
                 "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202601051700"
-            },
-            "group": "a02a9b65394cb7b0"
-          },
-          {
-            "id": "717f8229411adb13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202601050931.md",
-                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202601050931"
+              "title": "202601051700"
             }
-          }
-        ]
-      },
-      {
-        "id": "65b37b564aa9c32c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ebce2e2e08d3971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202601051700.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202601051700"
-            },
-            "group": "a02a9b65394cb7b0"
           }
         ]
       }
@@ -114,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3811f30227847ce7",
@@ -218,6 +181,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "61ad4a05adf47cd9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
         "currentTab": 6
@@ -238,28 +211,34 @@
       "bases:Create new base": false,
       "flashcards-obsidian:Generate flashcards": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9c11c060248c6882",
+  "active": "488d14a15f156602",
   "lastOpenFiles": [
     "202601050931.md",
-    "202601051700.md",
-    "202601061513.md",
     "Pasted image 20260106151129.png",
-    "Pasted image 20260106120834.png",
-    "Pasted image 20260106111247.png",
-    "Pasted image 20260106110233.png",
+    "img/Pasted image 20260105173137.png",
+    "202601051700.md",
+    "img",
+    "Untitled.base",
+    "script.py",
+    "flashcards/aif/evo1",
+    "flashcards/aif",
+    "flashcards",
+    "202601061513.md",
+    "img/Pasted image 20260106120834.png",
+    "img/Pasted image 20260106111247.png",
+    "img/Pasted image 20260106110233.png",
     "Excalidraw/Drawing 2026-01-06 10.35.53.excalidraw.md",
-    "Pasted image 20260106101021.png",
-    "Pasted image 20260106095533.png",
-    "Pasted image 20260106095202.png",
+    "img/Pasted image 20260106101021.png",
+    "img/Pasted image 20260106095533.png",
+    "img/Pasted image 20260106095202.png",
     "Excalidraw/Drawing 2026-01-05 17.20.42.excalidraw.md",
     "README.md",
-    "Untitled",
-    "Pasted image 20260105174405.png",
-    "Pasted image 20260105174337.png",
-    "Pasted image 20260105174329.png",
+    "img/Pasted image 20260105174405.png",
+    "img/Pasted image 20260105174337.png",
     "utils/templates/card-template.md",
     "MyExcalidrawFile.md",
     "Excalidraw",
