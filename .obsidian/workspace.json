@@ -20,28 +20,28 @@
               "icon": "lucide-file",
               "title": "202601071807"
             },
-            "group": "c13f1fc8a4f1f417"
+            "group": "6158f7d75117ce09"
           }
         ]
       },
       {
-        "id": "fbdc0906af9e9338",
+        "id": "b89bcd69e9f10442",
         "type": "tabs",
         "children": [
           {
-            "id": "26cc366d969bd1b4",
+            "id": "37203a7c3aaeb2ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "202601071807.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "202601071807"
             },
-            "group": "c13f1fc8a4f1f417"
+            "group": "6158f7d75117ce09"
           }
         ]
       }
@@ -239,13 +239,21 @@
   },
   "active": "571c5c3db5806658",
   "lastOpenFiles": [
-    "202601051700.md",
-    "202601071807.md",
+    "resources/img/Pasted image 20260108183657.png",
+    "resources/img/Pasted image 20260108183505.png",
     "resources/img/Pasted image 20260107182726.png",
+    "resources/img/Pasted image 20260108182907.png",
+    "resources/Pasted image 20260105173137.png",
+    "resources/Pasted image 20260105174329.png",
+    "resources/Pasted image 20260105174337.png",
+    "resources/Pasted image 20260105174405.png",
+    "resources/Pasted image 20260106095202.png",
+    "resources/Pasted image 20260106095533.png",
+    "resources/Pasted image 20260106101021.png",
+    "202601071807.md",
+    "202601051700.md",
     "resources/img",
     "202601050931.md",
-    "resources/Pasted image 20260106151129.png",
-    "resources/Pasted image 20260105173137.png",
     "resources",
     "Untitled.base",
     "script.py",
@@ -253,16 +261,9 @@
     "flashcards/aif",
     "flashcards",
     "202601061513.md",
-    "resources/Pasted image 20260106120834.png",
-    "resources/Pasted image 20260106111247.png",
-    "resources/Pasted image 20260106110233.png",
     "Excalidraw/Drawing 2026-01-06 10.35.53.excalidraw.md",
-    "resources/Pasted image 20260106101021.png",
-    "resources/Pasted image 20260106095533.png",
-    "resources/Pasted image 20260106095202.png",
     "resources/Excalidraw/Drawing 2026-01-05 17.20.42.excalidraw.md",
     "README.md",
-    "resources/Pasted image 20260105174405.png",
     "resources/utils/templates/card-template.md",
     "MyExcalidrawFile.md",
     "resources/Excalidraw",
