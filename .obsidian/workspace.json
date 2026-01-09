@@ -19,7 +19,29 @@
               },
               "icon": "lucide-file",
               "title": "202601071807"
-            }
+            },
+            "group": "14034ff2cc75e396"
+          }
+        ]
+      },
+      {
+        "id": "ec0b3e4d7e3a9afa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b287c6b2fca0e977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202601071807.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202601071807"
+            },
+            "group": "14034ff2cc75e396"
           }
         ]
       }
@@ -217,17 +239,17 @@
   },
   "active": "571c5c3db5806658",
   "lastOpenFiles": [
+    "resources/img/Pasted image 20260109184953.png",
+    "resources/img/Pasted image 20260109182642.png",
+    "resources/img/Pasted image 20260109180632.png",
+    "resources/img/Pasted image 20260109175819.png",
+    "resources/img/Pasted image 20260109173052.png",
     "resources/img/Pasted image 20260108183657.png",
     "resources/img/Pasted image 20260108183505.png",
     "resources/img/Pasted image 20260107182726.png",
     "resources/img/Pasted image 20260108182907.png",
     "resources/Pasted image 20260105173137.png",
     "resources/Pasted image 20260105174329.png",
-    "resources/Pasted image 20260105174337.png",
-    "resources/Pasted image 20260105174405.png",
-    "resources/Pasted image 20260106095202.png",
-    "resources/Pasted image 20260106095533.png",
-    "resources/Pasted image 20260106101021.png",
     "202601071807.md",
     "202601051700.md",
     "resources/img",
