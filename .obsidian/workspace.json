@@ -11,10 +11,10 @@
             "id": "a9ff2ce4df97a6de",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -215,6 +215,7 @@
   "lastOpenFiles": [
     "202601171011.md",
     "Excalidraw/Drawing 2026-01-17 18.17.27.excalidraw.md",
+    "resources/img/Pasted image 20260118101502.png",
     "resources/img/Pasted image 20260117175119.png",
     "Excalidraw/Drawing 2026-01-17 10.51.57.excalidraw.md",
     "202601121754.md",
@@ -231,7 +232,6 @@
     "resources/img/Pasted image 20260109175819.png",
     "resources/img/Pasted image 20260109173052.png",
     "resources/img/Pasted image 20260108183657.png",
-    "resources/img/Pasted image 20260108183505.png",
     "202601051700.md",
     "resources/img",
     "202601050931.md",
