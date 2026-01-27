@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d0e23899983e35a0",
+        "id": "43f9ee1a280b7334",
         "type": "tabs",
         "children": [
           {
-            "id": "a9ff2ce4df97a6de",
+            "id": "a0294ff0911ec4c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "aif/Arguments.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Arguments"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "markov tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,33 +213,48 @@
       "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9ff2ce4df97a6de",
+  "active": "a0294ff0911ec4c8",
   "lastOpenFiles": [
-    "202601171011.md",
-    "Excalidraw/Drawing 2026-01-17 18.17.27.excalidraw.md",
-    "resources/img/Pasted image 20260118101502.png",
-    "resources/img/Pasted image 20260117175119.png",
-    "Excalidraw/Drawing 2026-01-17 10.51.57.excalidraw.md",
-    "202601121754.md",
-    "202601091851.md",
+    "aif/202601261840.md",
+    "202601261841.md",
+    "aif/202601261839.md",
+    "aif/202601261833.md",
+    "aif/202601261822.md",
+    "aif/202601191744.md",
+    "aif/202601171011.md",
+    "aif/202601121754.md",
+    "aif/202601261809.md",
+    "aif/202601261814.md",
+    "aif/202601261818.md",
+    "aif/Arguments.md",
+    "aif/202601050931.md",
+    "aif/202601051700.md",
+    "aif/202601071807.md",
+    "aif/202601091851.md",
+    "aif",
+    "resources/utils/templates/card-template.md",
+    "resources/Excalidraw/Drawing 2026-01-05 17.20.42.excalidraw.md",
     "Excalidraw/Drawing 2026-01-13 19.05.47.excalidraw.md",
     "Excalidraw/Drawing 2026-01-13 19.35.42.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-17 18.17.27.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-17 10.51.57.excalidraw.md",
+    "README.md",
+    "resources/img/Pasted image 20260118101502.png",
+    "resources/img/Pasted image 20260117175119.png",
     "Excalidraw",
     "resources/img/Pasted image 20260110162450.png",
     "resources/img/Pasted image 20260110150146.png",
-    "202601071807.md",
     "resources/img/Pasted image 20260109184953.png",
     "resources/img/Pasted image 20260109182642.png",
     "resources/img/Pasted image 20260109180632.png",
     "resources/img/Pasted image 20260109175819.png",
     "resources/img/Pasted image 20260109173052.png",
     "resources/img/Pasted image 20260108183657.png",
-    "202601051700.md",
     "resources/img",
-    "202601050931.md",
     "resources",
     "Untitled.base",
     "script.py",
@@ -243,13 +263,7 @@
     "flashcards",
     "202601061513.md",
     "Excalidraw/Drawing 2026-01-06 10.35.53.excalidraw.md",
-    "resources/Excalidraw/Drawing 2026-01-05 17.20.42.excalidraw.md",
-    "README.md",
-    "resources/utils/templates/card-template.md",
     "MyExcalidrawFile.md",
-    "resources/Excalidraw",
-    "Untitled.md",
-    "Welcome.md",
-    "resources/utils/templates"
+    "resources/Excalidraw"
   ]
 }

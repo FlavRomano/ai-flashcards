@@ -1,7 +1,6 @@
 ---
 tags:
   - "#card"
-cards-deck:
 ---
-## Front #card  
-Back
+
+#flashcards/subject/chapter
